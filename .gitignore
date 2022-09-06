@@ -1,0 +1,7 @@
+*.terraform*
+*.tfstate
+*.backup
+*.out
+*tfplan
+*.aws*
+*.txt
